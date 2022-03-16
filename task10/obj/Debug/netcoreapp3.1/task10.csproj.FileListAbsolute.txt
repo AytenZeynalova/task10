@@ -1,0 +1,14 @@
+C:\Users\Ayten\Desktop\task10\task10\bin\Debug\netcoreapp3.1\task10.exe
+C:\Users\Ayten\Desktop\task10\task10\bin\Debug\netcoreapp3.1\task10.deps.json
+C:\Users\Ayten\Desktop\task10\task10\bin\Debug\netcoreapp3.1\task10.runtimeconfig.json
+C:\Users\Ayten\Desktop\task10\task10\bin\Debug\netcoreapp3.1\task10.runtimeconfig.dev.json
+C:\Users\Ayten\Desktop\task10\task10\bin\Debug\netcoreapp3.1\task10.dll
+C:\Users\Ayten\Desktop\task10\task10\bin\Debug\netcoreapp3.1\task10.pdb
+C:\Users\Ayten\Desktop\task10\task10\obj\Debug\netcoreapp3.1\task10.csproj.AssemblyReference.cache
+C:\Users\Ayten\Desktop\task10\task10\obj\Debug\netcoreapp3.1\task10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayten\Desktop\task10\task10\obj\Debug\netcoreapp3.1\task10.AssemblyInfoInputs.cache
+C:\Users\Ayten\Desktop\task10\task10\obj\Debug\netcoreapp3.1\task10.AssemblyInfo.cs
+C:\Users\Ayten\Desktop\task10\task10\obj\Debug\netcoreapp3.1\task10.csproj.CoreCompileInputs.cache
+C:\Users\Ayten\Desktop\task10\task10\obj\Debug\netcoreapp3.1\task10.dll
+C:\Users\Ayten\Desktop\task10\task10\obj\Debug\netcoreapp3.1\task10.pdb
+C:\Users\Ayten\Desktop\task10\task10\obj\Debug\netcoreapp3.1\task10.genruntimeconfig.cache
